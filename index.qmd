@@ -4,8 +4,8 @@ subtitle: "TALLER_1"  # Subtítulo del documento
 date: today  # Fecha actual en formato español
 author:  # Información sobre los autores
   - name: Dagoberto Salgado Horta<br>Nancy Roa Robledo<br>Fabian Camilo Salgado Roa  # Nombres de los autores, separados por <br> para salto de línea en HTML
-    affiliation: "Universidad del Tolima"  # Afiliación de los autores (nombre de la universidad)
-    affiliation-url: "https://www.ut.edu.co/"  # URL que lleva a la página web de la universidad
+    affiliation: "Escuela superior de Administración Pública"  # Afiliación de los autores (nombre de la universidad)
+    affiliation-url: "https://www.esap.edu.co/"  # URL que lleva a la página web de la universidad
 lang: es  # Idioma del documento, en este caso en español
 title-block-banner: "#94abd1"
 format:
@@ -92,7 +92,7 @@ packages <- c("tidyverse", "kableExtra", "psych", "readxl")
 ipak(packages)
 ```
 
-# .Historia de la estadística
+# .Historia de la estadística nueva
 
 La historia de la estadística es el resultado de la necesidad humana de **recopilar, organizar y analizar información** para la toma de decisiones, especialmente en contextos administrativos, económicos y científicos.
 
